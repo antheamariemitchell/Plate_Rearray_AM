@@ -1,4 +1,7 @@
 # Rearray_GUI
+
+ You just have to run main and then choose from the GUI dropdown, then pick your file(s). 
+ 
  Helps to quickly rearray sample plates
 Options include: 
 1. Make a list of wells and sample names into a visual 96 well plate layout
